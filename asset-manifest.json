@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Product-Listing/static/css/main.db62923b.css",
+    "main.js": "/Product-Listing/static/js/main.c859e2a4.js",
+    "static/js/453.64512fd7.chunk.js": "/Product-Listing/static/js/453.64512fd7.chunk.js",
+    "static/media/motorola.webp": "/Product-Listing/static/media/motorola.615f839aa86c2327363b.webp",
+    "static/media/realme.webp": "/Product-Listing/static/media/realme.6c99eb6f023f85993b41.webp",
+    "static/media/redmi.webp": "/Product-Listing/static/media/redmi.e08e8cb058fbf613f186.webp",
+    "static/media/poco.webp": "/Product-Listing/static/media/poco.8fb53d24464e50da133f.webp",
+    "static/media/vivo.webp": "/Product-Listing/static/media/vivo.42e11640722a937dfd01.webp",
+    "index.html": "/Product-Listing/index.html",
+    "main.db62923b.css.map": "/Product-Listing/static/css/main.db62923b.css.map",
+    "main.c859e2a4.js.map": "/Product-Listing/static/js/main.c859e2a4.js.map",
+    "453.64512fd7.chunk.js.map": "/Product-Listing/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.c859e2a4.js"
+  ]
+}
